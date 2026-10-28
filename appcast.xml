@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Accora for Mac</title>
+    <link>https://github.com/toanhhg123/accora-releases</link>
+    <item>
+      <title>Accora 0.1.6</title>
+      <pubDate>Wed, 28 Oct 2026 14:07:11 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.1.6</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>In-app updates:</b> the &quot;new version&quot; banner and Settings → Update now offer <b>Cập nhật ngay</b>, and <b>Accora → Kiểm tra cập nhật…</b> checks directly. Accora downloads the update, verifies its signature, installs it over the current app and relaunches. No GitHub download, no Gatekeeper &quot;Open Anyway&quot; and no permission prompts on later updates.</li><li><b>Stable signing:</b> releases are now signed with a fixed Accora certificate instead of a per-build ad-hoc signature, so macOS keeps the permissions you granted across updates.</li><li><b>Safer database updates:</b> before a new version changes the local database, Accora saves a copy as `accora-backup-before-&lt;change&gt;.sqlite` next to `accora.sqlite`.</li><li>Accounts, Zalo sessions, contacts, campaigns, history and settings are kept when updating.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.1.6/Accora-0.1.6-mac-universal.zip" sparkle:edSignature="5rhe7QqaIUMeGlJl81ms0bH6+i+7PArO3SMfcaGxRGo0q9gqwWguKqTFNpkHku4vOYPaMmfXipldAk9kqQ2RCA==" length="10028302" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
