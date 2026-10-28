@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.1.7</title>
+      <pubDate>Wed, 28 Oct 2026 21:08:21 GMT</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.1.7</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Campaigns run in the background:</b> after starting a campaign you can open History, Contacts, Settings or another account, or switch to a different app. Sending continues. Previously sending stopped with &quot;Trang Zalo bị ẩn&quot; or &quot;recipientChanged&quot; unless the account&#x27;s Zalo page stayed on screen.</li><li><b>Safer when the page is hidden:</b> if the Zalo page is hidden for a moment, Accora moves it back to its background window and retries. When that happens during sending, it re-reads the chat status on Zalo first, so a request is never sent twice.</li><li><b>Recipient checks stay reliable in the background:</b> the hidden Zalo page keeps the normal desktop layout, so verifying the recipient&#x27;s Zalo profile works the same as on screen.</li><li>Includes random friend messages, synced Zalo recipient profiles and Zalo account profiles from the previous changes.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.1.7/Accora-0.1.7-mac-universal.zip" sparkle:edSignature="/NcVBs8Gde2R4Q1tAhloo/cvMHaAKHdndSqQMqWan8otucYv4ZP2qv/8PTJ0nzG1lE6xcDOT2EU492dIXMILAg==" length="10504874" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.1.6</title>
       <pubDate>Wed, 28 Oct 2026 14:07:11 GMT</pubDate>
       <sparkle:version>7</sparkle:version>
