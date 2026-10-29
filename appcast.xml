@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.1.10</title>
+      <pubDate>Thu, 29 Oct 2026 16:20:09 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.1.10</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Skip your own account:</b> when a search result matches the logged-in Zalo UID, record “Bỏ qua — Chính tài khoản này” and continue the campaign instead of stopping at `profileChat`.</li><li><b>Recover from an open self profile:</b> close the verified own-account popup left by an earlier attempt before searching again. Unrelated manual profiles remain protected.</li><li><b>Account-specific results:</b> self skips apply only to that campaign/account assignment, consume no send quota, and do not mark the contact as your own account globally.</li><li><b>Pinned messages:</b> distinguish pinned-message previews from friend-request banners so an unrelated chat banner does not prevent friendship classification.</li><li><b>History and monitoring:</b> show a separate self-skip result and retain its reason in local history.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.1.10/Accora-0.1.10-mac-universal.zip" sparkle:edSignature="v5qDC0iA58PhyQpoioKavcvUEquLIJJnUedu/HU2RcJo2VNzzJLsJukmsS74nZt8fpTB5QMvUvB+BdZFUJ+5Bg==" length="11047847" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.1.9</title>
       <pubDate>Thu, 29 Oct 2026 11:42:35 GMT</pubDate>
       <sparkle:version>10</sparkle:version>
