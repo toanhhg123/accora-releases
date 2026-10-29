@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.1.8</title>
+      <pubDate>Thu, 29 Oct 2026 05:32:31 GMT</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.1.8</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>System log monitor:</b> open <b>Nhật ký → Nhật ký hệ thống</b> to search, filter, inspect, copy and export diagnostics stored on this Mac. Logs cover app startup, storage, WebKit and campaign execution, with session and operation references. Files rotate at approximately 200 MiB total; secrets are redacted. The table shows the latest 200 matching events while search and export use up to 5,000 recent events.</li><li><b>Contact profile columns:</b> Contacts now displays gender and birthday from synced Zalo profiles. Hidden fields stay empty instead of reverting to old imported values.</li><li><b>Personalized greetings:</b> insert <b>{Salutation}</b> in campaign or default messages. A freshly read male Zalo profile maps to <b>anh</b>, female to <b>chị</b>, and hidden or unrecognized gender to <b>bạn</b>. Files without gender still import normally. Existing message templates are kept.</li><li><b>Safer manual messaging during campaigns:</b> the running account&#x27;s Zalo view is locked while automation owns it. <b>Tạm dừng để nhắn tin</b> waits for the current operation to hand control back; resuming searches for the recipient and reads their profile again. Other accounts remain usable.</li><li><b>Pause and Stop guard the send confirmation:</b> revocable execution permissions are checked before sending. An uncertain result after confirmation is reconciled without automatically sending another invitation.</li><li><b>Background execution improvements:</b> stable parking slots, visibility checks, optional WebKit scheduling fallbacks and separate sleep/lock handling improve session control.</li><li><b>Editing and performance fixes:</b> message editors preserve text and cursor state while previews update. Filtering stored logs avoids rebuilding thousands of native table rows.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.1.8/Accora-0.1.8-mac-universal.zip" sparkle:edSignature="ECDj8fJtzC3CrJFiZFIgcKSqLeh/10V/O9ZifS4iBeBpA72asuq7u+PyjF7LqHrLAtM6zjoYc+zeogVrHAiQBg==" length="10958110" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.1.7</title>
       <pubDate>Wed, 28 Oct 2026 21:08:21 GMT</pubDate>
       <sparkle:version>8</sparkle:version>
