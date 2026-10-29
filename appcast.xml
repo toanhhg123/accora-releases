@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.1.9</title>
+      <pubDate>Thu, 29 Oct 2026 11:42:35 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.1.9</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Business profiles:</b> open <b>Xem thêm</b> to read gender and birthday when Zalo displays them. Use the current detail layout and close the popup correctly before sending from the chat banner.</li><li><b>Friend-request flows:</b> support search results that open a profile first, then <b>Nhắn tin</b>. Recognize the chat&#x27;s <b>Gửi kết bạn</b> action even when the stranger badge or the profile&#x27;s friend button is absent. Recheck pending requests and recipient identity before confirmation.</li><li><b>Fresh personalization:</b> retain name, gender, birthday and <b>{Salutation}</b> mapping from the newly verified profile. Hidden fields are not inferred from stale imports. Existing message templates remain compatible.</li><li><b>Bulk contact deletion:</b> select multiple contacts or all matching results, then use <b>Xóa…</b> or <b>Danh bạ → Xóa liên hệ đã chọn…</b> (⌥⌘⌫). Confirmation defaults to Cancel. Contacts still pending/sending in campaigns are kept, and the result shows how many were removed or protected.</li><li><b>History preservation:</b> deleting contacts hides them from the address book while retaining send history and daily quotas. Reimporting a deleted number restores its existing identity and refreshes profile data on the next send.</li><li><b>Diagnostics:</b> known ResizeObserver loop notifications remain visible as `PAGE_LAYOUT_WARNING`. Other JavaScript and promise errors remain recorded, including unresolved website errors. Automation logs identify the profile/chat route taken.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.1.9/Accora-0.1.9-mac-universal.zip" sparkle:edSignature="RzmWtiA9a3h7wFUsl668x/7tIRI1PBMGVf4tIOyz0C5D2REHdUM+QkPdO3ro2swynNpQFIsgV/vEkpreMsGqAQ==" length="11046846" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.1.8</title>
       <pubDate>Thu, 29 Oct 2026 05:32:31 GMT</pubDate>
       <sparkle:version>9</sparkle:version>
