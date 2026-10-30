@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.2.1</title>
+      <pubDate>Fri, 30 Oct 2026 11:05:49 GMT</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.2.1</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Proxy table fits the window:</b> remove the forced 1,040-point width and outer horizontal scrolling. Column widths adapt to available space; secondary columns collapse when needed and their information remains available in the inspector.</li><li><b>Proxy blank clicks:</b> clicking empty table space no longer reopens the previous selection&#x27;s detail panel. Clearing selection closes the inspector; selecting a proxy and native row/context-menu actions still open its details.</li><li><b>Compact Contacts toolbar:</b> separate the search field from the buttons&#x27; shared toolbar background on macOS 26, preventing focus-ring padding from enlarging the whole group.</li><li><b>Consistent History toolbar:</b> use native icon-only actions and the same search sizing as Contacts. Keep export/cancel-export, cleanup, tooltips, and menu commands.</li><li><b>Search focus and resizing:</b> retain the 210×32-point search input with space for the native exterior focus ring; long text stays inside the field.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.2.1/Accora-0.2.1-mac-universal.zip" sparkle:edSignature="W4ws3vpDAOpMXluNR3OZku4KBhxTAQBEMWSeWTfbgJxaREk+BEu5Cl/hJ6tleVEECuIzO3r87qcSxE1bC867Bw==" length="13024013" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.2.0</title>
       <pubDate>Fri, 30 Oct 2026 09:56:31 GMT</pubDate>
       <sparkle:version>12</sparkle:version>
