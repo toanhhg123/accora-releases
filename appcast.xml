@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.2.0</title>
+      <pubDate>Fri, 30 Oct 2026 09:56:31 GMT</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.2.0</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Per-account HTTP CONNECT proxies:</b> manage saved proxies, automatically parse connection details, test connectivity and public IP, and assign a separate proxy to each Zalo account. Credentials are stored in Keychain; assignments persist across app restarts.</li><li><b>Verified proxy routing:</b> compare native and WebKit egress before allowing an assigned session to load. Invalid routes or unavailable credentials block the affected account instead of silently using a direct connection. Connection changes wait for a safe automation pause.</li><li><b>Three-step contact imports:</b> import CSV, XLSX, and supported XLS files with column mapping, a data preview, configurable phone-prefix conversion, validation, duplicate detection, and a final review before saving.</li><li><b>Contact categories and filters:</b> create and manage colored categories, assign multiple contacts, and combine per-column filters. Status and category popovers support multiple selections with checkboxes.</li><li><b>Compact native Contacts UI:</b> five primary columns, smaller icon-only toolbar actions, bounded search with an exterior native focus ring, and responsive import sheets. Gender and birthday remain available in contact details and CSV exports.</li><li><b>Campaign names:</b> name campaigns, use presets or a date-based default, and rename saved campaigns. History displays the campaign name.</li><li><b>History management:</b> seven columns, native multiple selection, copying rows, scoped cleanup, and a five-second Undo. Hiding history does not reset send quotas or duplicate-send protection.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.2.0/Accora-0.2.0-mac-universal.zip" sparkle:edSignature="Aqory//FcYm5J3fj9b1hIgQaMp1eGyJzqCEa3zs41wPPqCMScW2F3zOFV1bq1Ndyr0EBd2f4r8/o0plwtePcBw==" length="13044783" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.1.10</title>
       <pubDate>Thu, 29 Oct 2026 16:20:09 GMT</pubDate>
       <sparkle:version>11</sparkle:version>
