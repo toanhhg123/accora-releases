@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.3.0</title>
+      <pubDate>Fri, 30 Oct 2026 19:20:56 GMT</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.3.0</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Campaign execution mode:</b> choose “Thao tác giao diện” or “API Zalo Web” in the native campaign form or Campaign menu. The confirmation sheet shows the selected mode before starting.</li><li><b>Preserved campaign behavior:</b> the execution mode is saved with the campaign settings snapshot. Existing campaigns continue using the interface flow; API is opt-in for new campaigns.</li><li><b>API recipient checks:</b> identify the current Zalo account and look up recipients through its authenticated WebView session. Skip self, existing friends and pending invitations; distinguish invalid phone input from unavailable profiles.</li><li><b>Fresh message mapping:</b> synchronize the recipient profile before rendering a greeting, then recheck identity, profile and relationship before dispatch. Unknown gender/birthday fields remain unknown.</li><li><b>Duplicate-send protection:</b> acquire execution locks before asynchronous preflight, persist unresolved send reservations, and reconcile uncertain outcomes with read requests instead of automatically resending. Pause/Stop revoke execution permission.</li><li><b>Monitor mode:</b> API campaign details identify their execution mode and display API-specific attention messages alongside the existing runner history.</li><li><b>Developer documentation:</b> document the inspected Zalo modules, preflight decisions, and sequence diagrams; organize the fixed SDK script into named functions with explanatory comments.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.3.0/Accora-0.3.0-mac-universal.zip" sparkle:edSignature="SJ3g22endGp1gNRCDsAn0F2GHuQZi0Tj4wIbs88ov2f85ckYUgdQAm7thtuX4ZxRratKGk4Ecyj/qLngGKG4AQ==" length="13106077" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.2.1</title>
       <pubDate>Fri, 30 Oct 2026 11:05:49 GMT</pubDate>
       <sparkle:version>13</sparkle:version>
