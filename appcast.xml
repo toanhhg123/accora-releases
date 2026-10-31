@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.4.0</title>
+      <pubDate>Sat, 31 Oct 2026 10:54:03 GMT</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.4.0</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>API monitor redesign:</b> account/campaign/proxy context, progress, result/API filters and phone/name/UID search; a responsive recipient tree and four-tab inspector show each SDK call.</li><li><b>Request and response inspection:</b> view SDK arguments, available HTTP status/headers and original response, the complete decrypted business envelope, the SDK return value, timing and errors. Copy individual calls or export the loaded account/campaign journal as JSONL.</li><li><b>Empty response explanation:</b> a successful send ACK may contain `data: &quot;&quot;`. The inspector now separates that SDK return value from the complete response envelope and explains older records that did not capture it.</li><li><b>Persistent local journal:</b> new calls are stored locally with account/campaign scope, bounded payload previews, credential-field redaction, queue limits and retention. Completed API campaigns can reopen their journal without restarting automation.</li><li><b>Chat access:</b> switch between the API journal and the same account&#x27;s Zalo Web session without recreating its WebView. API mode permits manual chat interaction while retaining Pause/Stop execution leases; interface mode retains its interaction lock.</li><li><b>Native controls:</b> compact search with an exterior focus ring, responsive inspector navigation, independent JSON scrolling, retained filters/selection and matching menu commands.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.4.0/Accora-0.4.0-mac-universal.zip" sparkle:edSignature="ru8+cPf4/qnVcDeJC1w0T0ip2oXhnQq8jLjTOfHpR+vhKyeJ3BHW2BGSUVhcGlFHMWr/iJa7av7g6P/EhrauAA==" length="13863080" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.3.0</title>
       <pubDate>Fri, 30 Oct 2026 19:20:56 GMT</pubDate>
       <sparkle:version>14</sparkle:version>
