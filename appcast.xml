@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.4.1</title>
+      <pubDate>Sat, 31 Oct 2026 14:15:38 GMT</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.4.1</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Proxy Keychain recovery:</b> explicit connection checks and assignment can ask macOS to authorize access to the saved password. Keychain reads run off the UI thread, and authorization errors are distinguished from a missing password.</li><li><b>Safe reconnection:</b> a blocked assigned session can reconnect after a successful check while keeping the proxy assignment, credential reference and persistent Zalo store. Checking a healthy route preserves its live document. Background credential failures are shown as errors, with no direct-network fallback.</li><li><b>Shared message templates:</b> manage multiple friend-request messages in <b>Cấu hình chung</b>. Save text and enabled states once for all new campaigns; add, delete, enable/disable, insert variables and preview random selection. Account-specific timing settings cannot override the shared messages.</li><li><b>Simpler campaign creation:</b> the campaign form shows the shared-message summary and a link to Settings. Existing campaigns keep their original message snapshots.</li><li><b>API monitor filters:</b> result/API labels appear inside their native selectors; search, result and API fields use a responsive 4:2:2 layout, with actions on a separate row when space is limited.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.4.1/Accora-0.4.1-mac-universal.zip" sparkle:edSignature="mddB9/jHIXSn5kHmpaQO+572osEWnqvjeYRxzz4DmcV0aMTU+kjji+bS3laTNsaLxqky6lLcyoUghDOBInafBA==" length="13792961" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.4.0</title>
       <pubDate>Sat, 31 Oct 2026 10:54:03 GMT</pubDate>
       <sparkle:version>15</sparkle:version>
