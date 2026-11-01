@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.5.1</title>
+      <pubDate>Sun, 01 Nov 2026 18:36:48 GMT</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.5.1</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Mật khẩu proxy cục bộ:</b> lưu plaintext trên máy theo lựa chọn người dùng, có hiện/ẩn mật khẩu đã lưu. Mật khẩu Keychain cũ được chuyển một lần sau khi được cấp quyền; những lần đọc sau dùng bản đã lưu cục bộ.</li><li><b>Nhập nhiều proxy:</b> dán mỗi dòng theo định dạng IP:Port:Username:Password, kiểm tra trước khi nhập và chọn bỏ qua hoặc thay thế proxy trùng IP + Port. Thay thế giữ nguyên tên, ghi chú và tài khoản gán; lỗi kiểm tra kết nối không tự chuyển sang mạng trực tiếp.</li><li><b>Bảo toàn cấu hình:</b> giữ bundle ID và vị trí dữ liệu Release qua cập nhật. Lỗi khóa tệp, quyền truy cập hoặc dung lượng không còn bị coi là database hỏng rồi tạo kho rỗng. Cài đặt hiển thị thư mục dữ liệu đang dùng.</li><li><b>Phân bổ danh bạ:</b> tạo chiến dịch tự chọn danh bạ Chưa gửi, lọc nhanh theo phân loại và chia đều trong hạn mức riêng còn lại của tài khoản. Có xem trước danh sách người nhận trước khi chạy.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.5.1/Accora-0.5.1-mac-universal.zip" sparkle:edSignature="AyWCy7qMTmWAQfbzM///ARou4uB5q8GwVA2hqeTlIcAkPfoPUQJAk+qiMahugSSFktfIuj778P+Zl6cHRxazCA==" length="15282795" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.5.0</title>
       <pubDate>Sun, 01 Nov 2026 16:11:12 GMT</pubDate>
       <sparkle:version>17</sparkle:version>
