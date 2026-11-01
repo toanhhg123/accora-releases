@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.5.0</title>
+      <pubDate>Sun, 01 Nov 2026 16:11:12 GMT</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.5.0</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Consistent lists:</b> Contacts, History, Campaigns, Proxy, System Log and invitation lists share one toolbar search and column-header filters/sorting. Search and actions align to the right; columns fill the available width, with ellipses and full-value tooltips instead of horizontal scrolling. Empty search results retain the filters and reset action.</li><li><b>Invitation withdrawal:</b> choose an account, load outgoing invitations, select recipients and review confirmation before withdrawing. The app checks the current relationship and verifies the server result; quota rejections and uncertain responses are recorded without blindly retrying.</li><li><b>Durable withdrawal history:</b> results and request/response diagnostics remain available after reopening the app. Detail sheets scroll while keeping their title and Close button visible.</li><li><b>Native layouts and navigation:</b> cleaner tables, grouped forms, adaptive inspectors, stable sidebar selection, searchable account popovers and consistent menu/keyboard commands. Settings use number fields without stepper arrows and a hyphen between range endpoints.</li><li><b>Campaign defaults:</b> new drafts select API Zalo Web first. Existing campaigns retain their saved execution mode and message snapshots.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.5.0/Accora-0.5.0-mac-universal.zip" sparkle:edSignature="tamnTJDlchHsC7jon1TZnPLc7ggHQ4k2EAbQDYE78BEFKc6D4qEd5cHllNYabHPShfbQv7sHf9qcm2YUOHvuAQ==" length="14897929" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.4.1</title>
       <pubDate>Sat, 31 Oct 2026 14:15:38 GMT</pubDate>
       <sparkle:version>16</sparkle:version>
