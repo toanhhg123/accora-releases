@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.5.3</title>
+      <pubDate>Mon, 02 Nov 2026 07:40:35 GMT</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.5.3</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Thu hồi nhiều tài khoản:</b> chọn nhiều tài khoản, tải lời mời song song và kiểm tra người nhận trước khi xác nhận. Có thể chạy 1–5 tài khoản cùng lúc, mặc định 3, xem tiến độ và tạm dừng/dừng từng tài khoản hoặc tất cả.</li><li><b>Xóa nhật ký thu hồi:</b> xóa bản ghi đã chọn, kết quả lọc, một tài khoản hoặc mọi tài khoản, có xác nhận và Hoàn tác trong 5 giây. Các kết quả thu hồi chưa rõ vẫn được giữ chốt an toàn chống yêu cầu lặp.</li><li><b>Bố cục thu hồi mới:</b> chọn tài khoản và lời mời trong hai vùng rõ ràng, header/footer cố định, bước xác nhận ngay trong cùng cửa sổ và có thể xem người nhận theo tài khoản. Sửa khoảng trắng lớn khi bỏ chọn tài khoản.</li><li><b>Tải danh sách ổn định hơn:</b> nhận diện lời mời cũ mà Zalo không cung cấp ngày gửi, hiển thị “Không rõ ngày gửi” thay vì làm lỗi cả danh sách.</li><li><b>Sửa popup bộ lọc:</b> popup mở ngay dưới nút filter và đi theo đúng cột khi thay đổi kích thước cửa sổ.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.5.3/Accora-0.5.3-mac-universal.zip" sparkle:edSignature="TzobFiJOGLWnbUjFx9KbAwAawk6JLahMRnphfFXgVEDZTGLCsTZJSHt5kyz9/ANKOlAxuQlJCeX820C/pfNcAQ==" length="15983654" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.5.2</title>
       <pubDate>Mon, 02 Nov 2026 03:55:41 GMT</pubDate>
       <sparkle:version>19</sparkle:version>
