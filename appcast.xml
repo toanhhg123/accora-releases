@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.5.2</title>
+      <pubDate>Mon, 02 Nov 2026 03:55:41 GMT</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.5.2</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Tự chuẩn bị phiên Zalo:</b> khi web đang đóng hoặc hiện “Kích hoạt”, Accora tự mở đúng phiên đã lưu, gọi hàm kích hoạt nội bộ của Zalo và xác minh tài khoản trước khi tải danh sách hoặc thực hiện tác vụ. Không cần thoát Accora; phiên đã hết đăng nhập vẫn cần người dùng đăng nhập lại.</li><li><b>SDK/API cho chiến dịch:</b> các lần chạy tiếp theo dùng API Zalo Web, kể cả tiếp tục chiến dịch cũ. Lịch sử và cấu hình chụp trước đây được giữ nguyên. Không tự chuyển sang bấm giao diện khi SDK thay đổi.</li><li><b>Đổi proxy trong ứng dụng:</b> làm mới kết nối mà không cần thoát app. Các tác vụ bị ảnh hưởng được dừng an toàn; nếu có tác vụ đã dừng, ứng dụng hỏi có muốn tiếp tục sau khi xác minh kết nối mới.</li><li><b>Sửa bố cục:</b> xác nhận xóa chiến dịch dùng alert native và phản hồi ở footer cố định; các nhóm input trong Cấu hình căn sát bên phải, gồm mục Áp dụng cho và Nhịp gửi.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.5.2/Accora-0.5.2-mac-universal.zip" sparkle:edSignature="NQushK6BDpeF9ZX1Ip8TSl6nCmXWEQkDWT7fC3YB9BcmS9vlyWBD/q9yHcSitHBE4oOU8ziw//v3AFqJDVBHCA==" length="15457061" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.5.1</title>
       <pubDate>Sun, 01 Nov 2026 18:36:48 GMT</pubDate>
       <sparkle:version>18</sparkle:version>
