@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.5.4</title>
+      <pubDate>Tue, 03 Nov 2026 10:31:06 GMT</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.5.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.5.4</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>A dedicated withdrawal workspace:</b> open Withdrawal or History directly from their own sidebar group. Select accounts, automatically load outgoing invitations, then review the combined recipient list before confirming.</li><li><b>Fewer selection steps:</b> automatically select up to 60 pending invitations per account, prioritizing unknown send dates and then the oldest invitations. Change the default quantity in Configuration, including account-specific settings, or adjust the selection before withdrawal.</li><li><b>Clearer recipient review:</b> show available Zalo recipient avatars, compact single-line rows, account/date header filters and one toolbar search. Keep selections across filters and display recipients immediately under compact account headers in the confirmation step.</li><li><b>Compact withdrawal history:</b> view history across accounts, filter by Zalo account name/avatar, and use the same table density as Contacts and send history. Existing history cleanup and Undo remain available.</li><li><b>Continue past invalid API recipients:</b> record observed Zalo lookup failures 212/216 as recipient errors and move to the next contact with a non-blocking Monitor notice. Explicit recipient privacy restrictions and incoming requests are also skipped. Session, account, SDK-contract and uncertain-send problems retain their existing protection.</li><li><b>Keep recorded failures final:</b> an exhausted transient error is no longer returned to pending when the account pauses at its consecutive-error threshold. Preserve the recorded result instead of retrying that contact.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.5.4/Accora-0.5.4-mac-universal.zip" sparkle:edSignature="379YVOd/QnmWg82zkTxlI7thLMnUKxVVUwH6GAhnmFbR1AI/U8fyEIoc+MGgDLaB+hI45tT4ENgp/UOPd96pBg==" length="15897095" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.5.3</title>
       <pubDate>Mon, 02 Nov 2026 07:40:35 GMT</pubDate>
       <sparkle:version>20</sparkle:version>
