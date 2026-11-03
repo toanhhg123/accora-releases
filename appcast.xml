@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.5.5</title>
+      <pubDate>Tue, 03 Nov 2026 15:40:54 GMT</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.5.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.5.5</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Close withdrawal progress windows:</b> fix the Close and Collapse buttons to dismiss the correct window. Escape uses the same action; hiding progress leaves its worker running.</li><li><b>Show why a withdrawal stopped:</b> display the terminal error near the progress bar and identify invitations that were not processed. Open the rejecting recipient&#x27;s last SDK step automatically instead of leaving a successful list request selected.</li><li><b>Report failed accounts correctly:</b> a terminal error no longer appears as completed, including when Zalo rejects the last recipient. Clear previous failure notices when starting a new run.</li><li><b>Improve local diagnostics:</b> retain the original failure reason and add internal batch, operation, server-code and remaining-count context to help investigate failures.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.5.5/Accora-0.5.5-mac-universal.zip" sparkle:edSignature="Ss09qkgNQ91BYtpCUniHC2+EL/M5JqqofceiU0b5hrChN8+FVY0JIpHEN1GAJRcaRZJ2wALb2vERvg00KfjGDQ==" length="15913442" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.5.4</title>
       <pubDate>Tue, 03 Nov 2026 10:31:06 GMT</pubDate>
       <sparkle:version>21</sparkle:version>
