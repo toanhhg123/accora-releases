@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.5.6</title>
+      <pubDate>Wed, 04 Nov 2026 02:00:41 GMT</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.5.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.5.6</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Continue past lookup error 210:</b> when Zalo confirms that a recipient is blocked for a policy violation, record the recipient failure and continue the queue. Apply the same verified pre-dispatch checks already used for lookup errors 212 and 216.</li><li><b>Keep the failure final:</b> save the exact lookup reason once, advance processed count without counting a send, and use the configured pause before the next recipient. An empty remaining queue finishes immediately.</li><li><b>Make skipped recipients clear:</b> show a dedicated skipped badge and result filter in the API journal, with a readable error-210 explanation in Monitor and history. Unresolved failures retain their separate status.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.5.6/Accora-0.5.6-mac-universal.zip" sparkle:edSignature="fJJQv6Xy+4GdcmE1Hf5v/Kns1OFqxYHr+pc0zk/sEvnSfawk3M/XMu6cB0VikuAnsmB8fCDHChnhmQY5vybUDQ==" length="15915975" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.5.5</title>
       <pubDate>Tue, 03 Nov 2026 15:40:54 GMT</pubDate>
       <sparkle:version>22</sparkle:version>
