@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.5.8</title>
+      <pubDate>Wed, 04 Nov 2026 17:23:14 GMT</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>0.5.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.5.8</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Save discovered Zalo profiles first:</b> native campaign lookups persist UID, name and available profile fields before checking relationships or moving to another contact. Existing friends, pending invitations and the current account now update the address book too. Persistence failures block further processing and retain detailed error evidence.</li><li><b>Select withdrawal accounts faster:</b> step 1 now has a visible Select All / Deselect All action. It follows the current search, skips unavailable accounts and preserves selections outside the visible results.</li><li><b>Use native HTTP for sending and withdrawal:</b> startup verifies signed-in accounts through native profile, captures account-scoped context and releases temporary browsers. Unsigned profiles are skipped; user-opened browsers retain ownership. Native operations reuse verified context without keeping background WebViews open.</li><li><b>Inspect complete native evidence locally:</b> System Log displays cURL, request and response before/after encryption, context and processing errors. General diagnostics and support exports remain filtered.</li><li><b>Preserve operational safeguards:</b> per-recipient errors are recorded and skipped, withdrawal 301 stops only its account, and uncertain POST results retain duplicate protection without automatic replay. The retired SDK/DOM sender is removed.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.5.8/Accora-0.5.8-mac-universal.zip" sparkle:edSignature="4UceAwALRRq9kJ2L10p8J8DD1sMSoBfI9/6uXtGmJkSxGPtz/ax3u0Bs+uEIaF8XlUf3B1+ONwgkjyp2l/1EDg==" length="16534228" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.5.7</title>
       <pubDate>Wed, 04 Nov 2026 02:49:40 GMT</pubDate>
       <sparkle:version>24</sparkle:version>
