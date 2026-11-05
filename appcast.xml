@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.6.3</title>
+      <pubDate>Thu, 05 Nov 2026 12:10:17 GMT</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.6.3</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Fix shared-friend detection to compare Zalo global identity across accounts instead of account-local user IDs.</li><li>Keep each source account and its local UID for chat and friendship actions.</li><li>Show missing identity coverage and sync guidance for older cached lists.</li><li>Include separate local UID and Global ID columns in Friends CSV exports.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.6.3/Accora-0.6.3-mac-universal.zip" sparkle:edSignature="+pcPOAGY/sgkg/B9vOtGCpkaIIkS1aMe8Yy0RDKShNINIjiZXtyR7RJ3xWzzslW/UxC6y95DK7/7xjP3XNBaAg==" length="17289409" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.6.2</title>
       <pubDate>Thu, 05 Nov 2026 11:12:09 GMT</pubDate>
       <sparkle:version>29</sparkle:version>
