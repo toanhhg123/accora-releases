@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.6.0</title>
+      <pubDate>Thu, 05 Nov 2026 07:10:34 GMT</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.6.0</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>New Friends workspace:</b> browse cached Zalo friends across accounts with avatars, names, phone numbers or UIDs, source accounts, Contacts matches and last synchronization times.</li><li><b>Native friend synchronization:</b> synchronize all signed-in accounts or one selected account, with bounded concurrency, per-account results and cancellation. Unsigned accounts are skipped.</li><li><b>Contacts cross-reference:</b> match by validated UID or nonconflicting phone, show the owning accounts and support friendships with multiple accounts. Import selected friends in bulk, including friends whose phone number is hidden.</li><li><b>Immediate relationship updates:</b> native campaign checks save confirmed friend or pending-invitation relationships before skipping the recipient; acknowledged invitations also record the source account. Existing profile-first persistence and duplicate protection remain intact.</li><li><b>Faster friend management:</b> search by name, phone or UID; filter in column headers; identify friends shared across accounts; open the correct account&#x27;s conversation without sending a message; export the complete filtered list to CSV.</li><li><b>Consistent macOS presentation:</b> use the Contacts-style native table, trailing toolbar search, anchored filters, compact account links and menu-bar commands.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.6.0/Accora-0.6.0-mac-universal.zip" sparkle:edSignature="MusFBJ/abLP49EsjedHxrNEflPBgFJTDq2wlqR/WwI3s3+EgV9DR1dQmgN/uMg5p3VhuLdc/9SJ+Jb2s5BqnAQ==" length="17025954" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.5.9</title>
       <pubDate>Thu, 05 Nov 2026 02:58:11 GMT</pubDate>
       <sparkle:version>26</sparkle:version>
