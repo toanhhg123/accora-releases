@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.6.4</title>
+      <pubDate>Thu, 05 Nov 2026 22:50:52 GMT</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.6.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.6.4</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Speed up Friends synchronization with indexed, set-based Contact linking instead of per-friend Contact scans.</li><li>Keep Friends search, filters and sorting responsive with bounded page reads, canceled obsolete projections and cached summary metadata.</li><li>Reduce unnecessary in-memory table redraws and preserve exact range selections when individual rows are excluded.</li><li>Improve native table filter accessibility, popup placement and sizing.</li><li>Include virtualized list rendering and bounded Contacts reads introduced after 0.6.3.</li><li>Verify saved native account contexts at startup before using a bounded WebKit bootstrap when needed.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.6.4/Accora-0.6.4-mac-universal.zip" sparkle:edSignature="MmsZMQTWxZSxOya8m+yd1vAt2kQj9r/I71xy3c+CDxTkPF19FiaA/7emO6h84UHi87qPSarSrvP2fO+hYVxlCA==" length="17043476" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.6.3</title>
       <pubDate>Thu, 05 Nov 2026 12:10:17 GMT</pubDate>
       <sparkle:version>30</sparkle:version>
