@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.6.2</title>
+      <pubDate>Thu, 05 Nov 2026 11:12:09 GMT</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.6.2</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Select multiple friends and review their source accounts before removing friendships with native Zalo API.</li><li>Filter friends shared by multiple accounts, with account counts and grouped ordering.</li><li>Keep selections across searches and filters, and expose bulk actions in the menu bar.</li><li>Record per-friend failures and continue the batch without automatically retrying a removal. Confirm uncertain results through read-only reconciliation.</li><li>Preserve Contacts and send history while updating confirmed relationship changes.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.6.2/Accora-0.6.2-mac-universal.zip" sparkle:edSignature="LKkqBgv9K0IU+Db2VZpbB6LFa4qGiUkEjFYXIdUCuGXGUZ5CndFrsRAoLh9AmzF6/gB4clDwau1HM1+HzjEQBw==" length="17264456" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.6.1</title>
       <pubDate>Thu, 05 Nov 2026 09:00:55 GMT</pubDate>
       <sparkle:version>28</sparkle:version>
