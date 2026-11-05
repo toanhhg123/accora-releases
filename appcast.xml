@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.5.9</title>
+      <pubDate>Thu, 05 Nov 2026 02:58:11 GMT</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.5.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.5.9</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Skip withdrawal error 301:</b> record the failed invitation and original server code, show a skipped-error notice, and continue with the next recipient of the same account. A rejected invitation no longer stops the entire account.</li><li><b>Keep processing predictable:</b> each failed item is skipped without automatic retry, with normal pacing between recipients. Uncertain POST results retain duplicate protection; account authorization, Pause/Stop, preparation and audit safeguards remain in place.</li><li><b>Respect the reviewed order:</b> withdrawal confirmation now preserves the recipient sort order chosen in the table. The default unknown-date-first, then oldest-first selection remains unchanged.</li><li><b>Keep errors visible:</b> withdrawal history and native System Log retain the rejection details, and progress distinguishes failed invitations from successful withdrawals.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.5.9/Accora-0.5.9-mac-universal.zip" sparkle:edSignature="iqQkaEM0x4s7RJpeK1JzfjNuKR03wKi66NN8P2xfhBLU9OFFB1YNCO9HEwOMKpxSgKYhbjoAgXGVhphCdu75DQ==" length="16532838" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.5.8</title>
       <pubDate>Wed, 04 Nov 2026 17:23:14 GMT</pubDate>
       <sparkle:version>25</sparkle:version>
