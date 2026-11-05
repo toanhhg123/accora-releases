@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.6.1</title>
+      <pubDate>Thu, 05 Nov 2026 09:00:55 GMT</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.6.1</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Visible withdrawal headers and first row:</b> fix native inspector placement that could make macOS cover the invitation table header and clip the first recipient, even when details were closed.</li><li><b>Stable recipient details:</b> keep the inspector at the workspace boundary so opening or closing details preserves the table, step navigation and footer.</li><li><b>Clearer compact layout:</b> move the parallel-account control to a separate row when space is limited, keeping step names and the control readable.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.6.1/Accora-0.6.1-mac-universal.zip" sparkle:edSignature="vaC20dB2DZ63ZWv1v6iKgCooGFSuLAyD1tun71MAdToFQ8MFqf0qYod4NYQhhba4eeV4lr/aK52oi5TTTZVNAA==" length="17049059" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.6.0</title>
       <pubDate>Thu, 05 Nov 2026 07:10:34 GMT</pubDate>
       <sparkle:version>27</sparkle:version>
