@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.8.0</title>
+      <pubDate>Fri, 06 Nov 2026 18:15:26 GMT</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.8.0</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Add recurring friend-request jobs that select customers directly from Contacts, with a default daily time of 06:00, category filters, account selection and per-account quotas.</li><li>Preview allocations before running, share available daily capacity across due jobs, and prevent duplicate runs for the same schedule and day.</li><li>Add a dedicated schedule monitor and separate run history with multi-select column filters and detailed allocation results.</li><li>Offer a shared catch-up countdown for eligible missed schedules and preserve the existing account active-hour, native authorization and duplicate-send safeguards.</li><li>Improve concurrent scheduling, prepared database writes and bounded API/step journals for larger workloads.</li><li>Split the Sidebar into Accounts and Tools, with fixed bottom-left navigation tabs, trailing action icons and search available in both modes.</li><li>Group tools clearly, distinguish sending, scheduling and withdrawal histories, and remove static warehouse-count badges.</li><li>Make the Menu Bar more compact with explicit notification counts, bounded quick-account lists, overflow navigation and scheduling controls.</li><li>Consolidate global background, notification and power preferences into the five-tab Settings window; keep automation configuration focused on sending behavior.</li><li>Improve pinned-account notifications and background window handling while preserving existing account sessions and stored preferences.</li><li>Remove duplicate Quick Open and Focus Mode toolbar icons while retaining their menu commands and keyboard shortcuts.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.8.0/Accora-0.8.0-mac-universal.zip" sparkle:edSignature="/24GlbrVlZKVCxMVpFsaZLnvXaR6/38SLu0o7AemDO26BIG/ewxIQ7OVe8xIe/AWpSC6WM815VxB27qWTRKSBg==" length="19232163" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.7.0</title>
       <pubDate>Fri, 06 Nov 2026 07:37:51 GMT</pubDate>
       <sparkle:version>34</sparkle:version>
