@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.6.5</title>
+      <pubDate>Fri, 06 Nov 2026 01:06:49 GMT</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>0.6.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.6.5</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Fix long campaign preparation when selected Contacts are near the end of a large address book.</li><li>Speed up campaign source counts and previews with database indexes, direct recipient lookup and validated caching.</li><li>Reduce database write contention during source preparation and limit the recipient window before assigning campaign order.</li><li>Move bulk withdrawal sorting, search, selection preparation and confirmation reviews off the interface thread.</li><li>Fix expensive withdrawal context-menu selection lookups and preserve hidden selections when filtering.</li><li>Keep withdrawal confirmation lists virtualized and add clearer operation timing diagnostics.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.6.5/Accora-0.6.5-mac-universal.zip" sparkle:edSignature="jsmf1W1JV0v43Nchej+fbt5EpCmSCIw2FUMSV7F99kts+yxBt4vuXfDtCRtDcQYWyFYCp9IYAQwX0bopssKSBA==" length="17144374" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.6.4</title>
       <pubDate>Thu, 05 Nov 2026 22:50:52 GMT</pubDate>
       <sparkle:version>31</sparkle:version>
