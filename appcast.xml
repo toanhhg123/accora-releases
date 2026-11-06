@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.7.0</title>
+      <pubDate>Fri, 06 Nov 2026 07:37:51 GMT</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.7.0</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Schedule campaigns by weekday with up to three daily time windows, including overnight windows and account-specific schedules.</li><li>Choose immediate or scheduled execution when confirming a campaign; refresh saved schedules and daily limits before confirmation.</li><li>Keep native campaigns and withdrawals running while the screen is locked or off, with configurable idle-sleep prevention.</li><li>Add launch-at-login controls and optional unfinished-campaign recovery after account synchronization and a cancellable countdown.</li><li>Fix manual Resume outside sending hours and distinguish daily-limit pauses from closed-window waits.</li><li>Restore the original waiting or rest deadline after Pause and Resume.</li><li>Batch local API and step journals, reduce Monitor update work, and limit campaign recovery verification to four concurrent requests.</li><li>Batch campaign start and Stop All persistence while preserving native authorization checks and duplicate-send protection.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.7.0/Accora-0.7.0-mac-universal.zip" sparkle:edSignature="Py0rF6/+FaSoYlwEnprL4zXwihNQN0h7Unn45/+DntDjdgJLaOVtZRNtbH65ZqJbjUOUFEk+NIR8rHAKTejlCw==" length="17710877" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.6.6</title>
       <pubDate>Fri, 06 Nov 2026 03:14:32 GMT</pubDate>
       <sparkle:version>33</sparkle:version>
