@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.6.6</title>
+      <pubDate>Fri, 06 Nov 2026 03:14:32 GMT</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>0.6.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.6.6</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Fix overlapping account rows in withdrawal setup and progress lists while preserving compact table density.</li><li>Restore outcome colors in send history and secondary styling for uncategorized Contacts.</li><li>Restore mouse-drag range selection and edge autoscroll in multi-select tables, including withdrawal account choices.</li><li>Fix Command-click additions and removals after range selection; keep dragging responsive by committing selection work once on release.</li><li>Keep selected text and symbols readable when focus moves between a table, search, filters and inspectors.</li><li>Improve column-header truncation, full-title tooltips and spacing around filter buttons.</li><li>Give timestamps and severity labels more room in system logs, and identify UID-only history recipients clearly.</li><li>Preserve paged loading, bounded cell reuse and large-dataset optimizations.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.6.6/Accora-0.6.6-mac-universal.zip" sparkle:edSignature="v2s28cNr/XGhwTyDd5yvUd6LKJIn5NcIS7T9brBmveE1xl1w3NYDA/Vdf67+zRPXTYDJjjaDNW438/NTMfvABw==" length="17188768" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.6.5</title>
       <pubDate>Fri, 06 Nov 2026 01:06:49 GMT</pubDate>
       <sparkle:version>32</sparkle:version>
