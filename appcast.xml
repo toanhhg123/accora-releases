@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.9.1</title>
+      <pubDate>Sun, 08 Nov 2026 09:22:37 GMT</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.9.1</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Add to group:</b> a community invite quota refusal from Zalo (codes 323/324) is now shown as &quot;not sent&quot; with the Zalo code instead of &quot;rejected&quot;. Those customers are released from the invite ledger so a later run can invite them, and the account stops sending to that group without retrying.</li><li><b>Add to group:</b> in the preview&#x27;s Detail view, select rows (Command, Shift or drag) to send only the selected customers; with no selection every &quot;will add&quot; row is sent.</li><li><b>Add to group:</b> new &quot;Members per request&quot; option, 30 by default (1–50). Requests from one account are sent one after another.</li><li>Sidebar: the Accounts/Tools footer no longer overlaps long tool lists.</li><li>Forms: campaign allocation, automation settings and group invitation options use the same compact number fields.</li><li>Campaign setup: the execution and pacing cards are replaced by one short description and a Configuration link.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.9.1/Accora-0.9.1-mac-universal.zip" sparkle:edSignature="5kGKd9XpIQ+L9MJq9F0xlgcYYhCgbULsJV9x/vA38qb4q/UEfhhlaz672cHETEE3h3K6cyDLLPHs2nfKDIAlCw==" length="20217806" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.9.0</title>
       <pubDate>Sun, 08 Nov 2026 06:14:03 GMT</pubDate>
       <sparkle:version>37</sparkle:version>
