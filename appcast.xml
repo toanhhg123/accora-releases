@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.8.1</title>
+      <pubDate>Sun, 08 Nov 2026 03:42:53 GMT</pubDate>
+      <sparkle:version>36</sparkle:version>
+      <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.8.1</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Fix automatic account synchronization after QR login, so the Zalo profile updates without manually reloading the page.</li><li>Restore manual synchronization for an open account that has not saved its first profile yet, and keep the QR login page available after sign-out.</li><li>Capture fresh login context from the current browser, preserve the provisional owner during account updates, and verify the native profile before saving account information.</li><li>Add clearer login synchronization diagnostics while retaining native owner, proxy-route, account-lease and request-journal safeguards.</li><li>Separate Create Campaign from Created Campaigns in the Sidebar and enlarge the fixed Accounts/Tools navigation controls.</li><li>Remove the Sidebar footer Add Account button and enlarge its Open Web and Unread filter controls.</li><li>Replace trailing detail panels with shared, scrollable popups and remove duplicate actions; detail-only actions stay in a fixed footer with at most two commands.</li><li>Keep withdrawal account tables consistent with native multi-selection, retain the original table appearance, and correct stale selection ranges during Command-click.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.8.1/Accora-0.8.1-mac-universal.zip" sparkle:edSignature="PmEsFWE6qXOPfbL9uqA3wgC4EKt6qfq9amNnWUzxwtZ7xiVdtxhxd0UXpQtOw/bkQ9GjCgn1xfcxjaw4hFQ1Cw==" length="19139488" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.8.0</title>
       <pubDate>Fri, 06 Nov 2026 18:15:26 GMT</pubDate>
       <sparkle:version>35</sparkle:version>
