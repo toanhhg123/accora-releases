@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.9.0</title>
+      <pubDate>Sun, 08 Nov 2026 06:14:03 GMT</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.9.0</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Add <b>Add to group</b> (Tools → Customers, Option-Command-G): add customers who carry selected Zalo labels to one or more groups or communities across many accounts in a single confirmed run.</li><li>Choose several accounts, groups and labels in one form; groups shared by several accounts and labels with the same name are merged automatically.</li><li>Preview the automatic plan by account, by group or per customer before sending; exclude customers or change the sending account.</li><li>Each customer is invited by exactly one account, preferring an account that is already their friend, and a permanent invite ledger prevents the same customer from being invited to the same group twice, including on reruns.</li><li>Send in the background with per-account limits, spacing between requests, Pause, Resume and Stop; members already in a group are skipped right before sending.</li><li>Show per-customer results: added, invite link sent (communities), invitation sent, pending approval, already a member, rejected, not sent or uncertain. Uncertain requests are never resent automatically, and a read-only check can confirm who joined.</li><li>Add the <b>Group invite history</b> page (Option-Shift-Command-G) with search and account/result filters.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.9.0/Accora-0.9.0-mac-universal.zip" sparkle:edSignature="EOlMnZqngUUzdXFi7fBhf2y7ugw0GAjGD9I3Vpc4o3nZceLAVSbVAcs9nASUJZP17UM8tlSntLGYOmqrPPUhBQ==" length="20236870" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.8.1</title>
       <pubDate>Sun, 08 Nov 2026 03:42:53 GMT</pubDate>
       <sparkle:version>36</sparkle:version>
