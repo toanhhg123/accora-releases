@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.9.2</title>
+      <pubDate>Tue, 10 Nov 2026 11:44:01 GMT</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.9.2</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Accounts Sidebar:</b> select multiple accounts with Command/Shift-click, use Command-A in the focused list, and open selected webs from the context menu or with Option-Command-O.</li><li><b>History cleanup:</b> delete multiple completed records from Schedule Run History and Group Invite History using consistent table selection and confirmation. Active records remain protected.</li><li><b>Table selection:</b> clicking empty space now clears the stored selection as well as the highlight, preventing a later Command-click from restoring an invisible selection.</li><li><b>Navigation:</b> Add to Group uses a more compact person-plus icon.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.9.2/Accora-0.9.2-mac-universal.zip" sparkle:edSignature="/iIXW/IaAlYusH622yo7pJfYI2u/UFVVbYws7BiVU9Ge2uYXVGE1xcs/lf0wa2bMY31YSt0DZttM/hX96thmAg==" length="20396211" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.9.1</title>
       <pubDate>Sun, 08 Nov 2026 09:22:37 GMT</pubDate>
       <sparkle:version>38</sparkle:version>
