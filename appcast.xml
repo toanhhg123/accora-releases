@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.9.5</title>
+      <pubDate>Wed, 11 Nov 2026 13:27:26 GMT</pubDate>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.9.5</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Resizable columns:</b> drag a table header boundary to adjust column widths. The shared table renderer retains your proportions during updates in the current view.</li><li><b>Contacts columns:</b> Status and Zalo Account now have separate columns. Zalo Account replaces Import Date as the final column; sorting by import date remains available in the menu.</li><li><b>Outgoing invitation counts:</b> Withdrawal account selection shows pending invitations read from Zalo instead of Connection. Available synchronized accounts load two at a time, and Continue reuses a fresh list for up to two minutes to avoid a duplicate read.</li><li><b>Load recovery:</b> returning to the page allows a failed count to load again and removes a superseded list-load error banner. Failed reads remain distinct from zero, while successful fresh lists continue to be reused.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.9.5/Accora-0.9.5-mac-universal.zip" sparkle:edSignature="3Z2RV/St6K/It38uANNhRFZOZ4EcXc+zrQ6c1WXQ50YypwBWI7L163YQullElqWTfmPLfFLCCjfO2Ns2UAzFAw==" length="20534664" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.9.4</title>
       <pubDate>Wed, 11 Nov 2026 06:00:01 GMT</pubDate>
       <sparkle:version>41</sparkle:version>
