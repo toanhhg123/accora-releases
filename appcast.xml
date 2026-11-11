@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.9.4</title>
+      <pubDate>Wed, 11 Nov 2026 06:00:01 GMT</pubDate>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.9.4</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Contacts status:</b> customers with a confirmed successful send now display &quot;Sent&quot; instead of being incorrectly labeled &quot;Previously sent&quot; when the outgoing invitation is pending.</li><li><b>Existing data:</b> a local migration repairs affected saved statuses and refreshes the database triggers used by Contacts filters and scheduled contact counts. Verified friend relationships still take priority; a pending request without a confirmed local send remains &quot;Previously sent&quot;.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.9.4/Accora-0.9.4-mac-universal.zip" sparkle:edSignature="qJCGGnXYhsyVDuFG5ZmtDPiSQ1kmFfGMbfHGesVfI2VbbcUbKxXRqernD6dPkYTkgPxe7xgXKm6UYzDxfV3kCw==" length="20446011" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.9.3</title>
       <pubDate>Tue, 10 Nov 2026 13:15:51 GMT</pubDate>
       <sparkle:version>40</sparkle:version>
