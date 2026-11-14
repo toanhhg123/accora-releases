@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.10.2</title>
+      <pubDate>Sat, 14 Nov 2026 06:27:00 GMT</pubDate>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>0.10.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.10.2</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Keep Awake setup without System Settings:</b> the first time you turn Keep Awake on, macOS shows its standard administrator password dialog. Enter your Mac password once and Keep Awake starts right away; later it turns on immediately. No Terminal and no Login Items switch are needed.</li><li><b>Uninstall from Accora:</b> Settings → Background &amp; Notifications → Uninstall helper removes the helper after the same password dialog and restores your sleep setting.</li><li><b>Updates:</b> when a future Accora update changes the helper, the next Keep Awake start asks for your password once to update it.</li><li>The helper only accepts commands from Accora signed with the release certificate and still restores your previous sleep setting when Keep Awake stops, Accora quits or stops responding, time runs out, or the Mac restarts.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.10.2/Accora-0.10.2-mac-universal.zip" sparkle:edSignature="FZfcWWhsfQROjJQBl2fszQYIL5Ze+dpp7nmrW3an5qqv5CG7UsLfUSt9vaPCJlFH7CEg8/vWcBTL4zZ8SfnrCA==" length="21942833" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.10.1</title>
       <pubDate>Sat, 14 Nov 2026 05:45:27 GMT</pubDate>
       <sparkle:version>44</sparkle:version>
