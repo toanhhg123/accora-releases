@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.10.0</title>
+      <pubDate>Sat, 14 Nov 2026 05:25:40 GMT</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.10.0</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Keep Awake:</b> keep the Mac and Accora running with the lid closed, without an external display, so campaigns, withdrawals and group invitations continue overnight. Choose until work is done, 1, 3 or 8 hours, until a morning time, or indefinitely from the Menu Bar, Automation → Keep Awake, or Control-Option-Command-K.</li><li><b>One-click setup:</b> the first time, Accora installs its small system helper and opens System Settings → Login Items. Allow Accora once and the chosen session starts automatically.</li><li><b>Safety:</b> by default Keep Awake runs only on power, stops below 30% battery and stops when the Mac gets too hot. The previous sleep setting is restored when you turn it off, when time or work runs out, if Accora quits or stops responding for 90 seconds, and after a restart. You get a notification when it stops automatically.</li><li><b>Turn display off now:</b> turn the screen off from the same menu. The Mac locks according to your Lock Screen password setting.</li><li>Settings → Background &amp; Notifications contains the defaults, safety conditions, helper status and the last session summary.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.10.0/Accora-0.10.0-mac-universal.zip" sparkle:edSignature="7N+4UGquJs/pIOFfINI+HbZePwn24a5B05WDu2TZgNJV/Hx2595/ha2Zr6qgbuIU3V5H7n5NEFQivsSdSrxRBA==" length="21907726" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.9.5</title>
       <pubDate>Wed, 11 Nov 2026 13:27:26 GMT</pubDate>
       <sparkle:version>42</sparkle:version>
