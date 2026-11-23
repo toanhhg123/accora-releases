@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.10.3</title>
+      <pubDate>Mon, 23 Nov 2026 18:36:45 GMT</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>0.10.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.10.3</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Groups with the same name:</b> the group picker keeps a stable order and shows the account and group ID for each matching name. Changing the selected groups or accounts clears the previous plan.</li><li><b>Group invite batches:</b> the configured maximum is checked before every request. The confirmation shows the estimated request count, and the journal records the member count for each request.</li><li><b>Native API results:</b> group invites awaiting approval and community quota refusals now appear as Zalo responses. The app stops sending to the affected group for that account when Zalo returns a quota refusal.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.10.3/Accora-0.10.3-mac-universal.zip" sparkle:edSignature="IkuIpv+IbPPTEhu5p28ezjw949m9WcNTIqofJSEtIhlhE3Qx6EI5A/RH3ixwrrrmTDb5N9s0MRA/dknBuvSyAw==" length="21983453" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.10.2</title>
       <pubDate>Sat, 14 Nov 2026 06:27:00 GMT</pubDate>
       <sparkle:version>45</sparkle:version>
