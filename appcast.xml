@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.10.6</title>
+      <pubDate>Tue, 24 Nov 2026 16:30:39 GMT</pubDate>
+      <sparkle:version>49</sparkle:version>
+      <sparkle:shortVersionString>0.10.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.10.6</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Saved group invite batches:</b> open a run from Group Invite History to review its sending account, group, batch size, timestamps, outcome and any reported Zalo code. Batch history is available for new runs.</li><li><b>Safer recovery:</b> interrupted submissions remain uncertain and keep their duplicate protection. Unexpected invite responses are marked uncertain for reconciliation.</li><li><b>Accurate preview:</b> changes to the selected accounts, groups, labels or friends-only option invalidate the old plan. Search, filters and row selection narrow the confirmed send scope.</li><li><b>Faster planning and checks:</b> planning runs in the background. Before sending or reconciling, Accora rechecks the member lists for the groups involved.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.10.6/Accora-0.10.6-mac-universal.zip" sparkle:edSignature="jOJVY/tIkLwUPwvKALVu6TXIo60aUgq47c58X1iu4igfo3egbzODp+J1YMAKf6qYL74jMJQUolbMTpLSmELaCA==" length="22185666" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.10.5</title>
       <pubDate>Tue, 24 Nov 2026 09:12:43 GMT</pubDate>
       <sparkle:version>48</sparkle:version>
