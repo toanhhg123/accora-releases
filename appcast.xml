@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.10.5</title>
+      <pubDate>Tue, 24 Nov 2026 09:12:43 GMT</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>0.10.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.10.5</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Group invites by batch:</b> the new Batches tab shows each sending account, group, batch number, recipient count and request outcome. When Zalo refuses a batch, the tab displays the response code.</li><li><b>Accurate progress:</b> the monitor distinguishes recipients included in submitted requests from recipients still pending or skipped. The account matrix reports requests submitted for each group and highlights group or quota refusals.</li><li><b>Skipped recipients:</b> when a group or quota refusal stops further requests for that account and group, the remaining recipients are recorded as unsent with the reason.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.10.5/Accora-0.10.5-mac-universal.zip" sparkle:edSignature="MPYz6B9RUfkfkkOS/S9LdmKZzbITriGK6Ait6cC8F9bnQxDJ+qHRS4ZRBpeq6Jntu4wbYurk/e4bMFsNEVWGDg==" length="22035262" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.10.4</title>
       <pubDate>Tue, 24 Nov 2026 06:55:18 GMT</pubDate>
       <sparkle:version>47</sparkle:version>
