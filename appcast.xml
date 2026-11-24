@@ -4,6 +4,16 @@
     <title>Accora for Mac</title>
     <link>https://github.com/toanhhg123/accora-releases</link>
     <item>
+      <title>Accora 0.10.4</title>
+      <pubDate>Tue, 24 Nov 2026 06:55:18 GMT</pubDate>
+      <sparkle:version>47</sparkle:version>
+      <sparkle:shortVersionString>0.10.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/toanhhg123/accora-releases/releases/tag/v0.10.4</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li><b>Group selection and filters:</b> account and result filter checkboxes update immediately. Groups with the same name show distinct IDs on a separate line. The setup list omits group icons.</li><li><b>Editable invite limits:</b> configure up to 50 invitations per account and 10 people per request. Preview and dispatch use the same settings, and each account sends its batches in sequence.</li><li><b>Invite progress:</b> follow processed recipients and batches, including the current batch for each account.</li><li><b>Resend group invitations:</b> skip previously invited recipients by default, allow an immediate resend, or wait a configurable number of days. Preview identifies and counts eligible resends.</li></ul>]]></description>
+      <enclosure url="https://github.com/toanhhg123/accora-releases/releases/download/v0.10.4/Accora-0.10.4-mac-universal.zip" sparkle:edSignature="GHjh+M0W/i+s8UXvkxZQkBW+A/Vjm4k48JnEAJ2brgFSpraotmVhnQwYSZRf68cIFvBHl42z/uUOoBhdXhoADA==" length="22012335" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Accora 0.10.3</title>
       <pubDate>Mon, 23 Nov 2026 18:36:45 GMT</pubDate>
       <sparkle:version>46</sparkle:version>
